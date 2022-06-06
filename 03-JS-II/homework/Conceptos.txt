@@ -1,0 +1,9 @@
+
+ 
+for es una sentencia(statement), este ciclo permite reejutar instrucciones 
+
+&&: (AND) sirve para devolver true si todas las condiciones son verdaderas, sino retorna false.
+
+||: (OR) devuelve true si solo 1 condicion es verdadera, sino es false.
+
+!: sirve para invertir la condicion, es decir, transforma de verdadero a falso, y viceversa. 
