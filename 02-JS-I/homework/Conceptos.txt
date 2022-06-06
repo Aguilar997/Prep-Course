@@ -1,0 +1,14 @@
+- Variables: Es un espacio que guardamos en la memoria.
+En otras palabras, seria como una caja en la que podemos guardar argumentos 
+
+- Strings: Es un tipo de dato que se usa para denominar a los textos con comillas simples/dobles
+
+
+- Funciones: Podria decirse que son instrucciones que puede realizar una tarea y repetirlo.
+
+
+- Declaraciones if: Seria el condicional, realiza una operacion dependiendo de la expresion.
+
+
+- Valores booleanos (true, false): Representa al valor Verdadero y Falso
+ 
