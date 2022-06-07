@@ -1,0 +1,2 @@
+Arrays: es como un contenedor de cosas, se puede guardar todo tipo de dato(strings, booleanos, numbers, functions, etc), se invoca con los corchetes 
+[]
