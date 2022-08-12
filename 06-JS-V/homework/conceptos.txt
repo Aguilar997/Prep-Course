@@ -1,0 +1,4 @@
+* `prototype`:es un mecanismo que permite heredar a los objetos
+propiedades y metodos
+* _Constructors_ (de Clases)
+basicamente es una plantilla de objetos

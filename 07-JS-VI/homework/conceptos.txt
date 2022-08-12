@@ -1,0 +1,2 @@
+* Funciones Callback:  es una función que es usada como 
+parámetro en otra función
