@@ -1,0 +1,9 @@
+* Objetos: sirve para guardar colecciones de datos definidos, es como el array pero 
+mas complejo
+* Propiedades: contiene a clave y valor
+* Métodos: son las funciones pero en objetos se le dice de esa forma
+* Bucle `for…in`
+* Notación de puntos vs notación de corchetes: ambos
+cumplen con la funcion de acceder a los objetos
+notacion con punto se accede despues del objeto.
+mientras que notacion con corchete va el [] en vez del punto
